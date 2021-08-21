@@ -50,7 +50,7 @@ main {
     border-bottom-right-radius: 10px;
 }
 
-.options > img {
+h1 > img {
     width: 140px;
 }
 
